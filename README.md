@@ -1,6 +1,6 @@
 # South African Socio-Economic Inequality Dashboard
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url-here.streamlit.app/) <!-- Update with  deployed URL -->
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://socio-economic-project.streamlit.app//)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Library](https://img.shields.io/badge/Library-Pandas%20|%20Plotly%20|%20Streamlit-orange)
 ![Status](https://img.shields.io/badge/Status-Active%20Development-brightgreen)
@@ -33,3 +33,11 @@ An interactive, data-driven web application built with Streamlit to analyze and 
 *   **Development Tools**: Jupyter Notebook, Git, VS Code
 
 ## 📁 Project Structure
+Socio-Economic_InequalityAnalysis_in_SouthAfrica_Project/
+│
+├── app.py # Main Streamlit application
+├── requirements.txt # Python dependencies
+├── README.md # Project documentation (this file)
+├── setup.sh # For deployment on Streamlit Community Cloud (optional)
+└── images/ # Directory for screenshots and visuals
+└── dashboard-example.png
