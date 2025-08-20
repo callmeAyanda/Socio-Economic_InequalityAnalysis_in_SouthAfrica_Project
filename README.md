@@ -7,6 +7,7 @@
 
 An interactive, data-driven web application built with Streamlit to analyze and visualize spatial socio-economic inequality and service delivery disparities across South African municipalities. This project transforms complex public data into actionable insights for policymakers, researchers, and the public.
 
+![Dashboard Screenshot](images/dashboard-example.png)
 
 ## 🚀 Features
 
